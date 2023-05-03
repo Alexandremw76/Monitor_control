@@ -49,5 +49,3 @@ monitor_info_label4.pack()
 while_brightness_update()
 
 mainloop()
-
-monitor = sbc.list_monitors_info()
